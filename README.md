@@ -8,7 +8,7 @@ DOMAIN: Web development
 
 DURATION: June to july 2024
 
-MENTOR: Neela_Santhu
+MENTOR: Neela Santhosh Kumar
 
 
  Project Overview
