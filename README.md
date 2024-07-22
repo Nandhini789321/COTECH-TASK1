@@ -1,8 +1,13 @@
 NAME: Nandhini J
+
 COMPANY: CODTECH IT SOLUTIONS
+
 ID: CT08DS3181
+
 DOMAIN: Web development
+
 DURATION: June to july 2024
+
 MENTOR: Neela_Santhu
 
 
